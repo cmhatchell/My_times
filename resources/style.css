@@ -39,9 +39,12 @@ nav a {
 
 .content {
   display: flex;
-  width: 1200px;
-  margin: 0px auto 80px auto;
-  padding-top: 115px;
+  width: 1300px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 78px;
+  margin-left: auto;
+  padding-top: 116px;
 }
 div {
   border: 1px solid black;
